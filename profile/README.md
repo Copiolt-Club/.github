@@ -3,7 +3,7 @@
 **Here are some ideas to get you started:**
 
 - 🙋‍♀️ A short introduction - This organisation is about learning the basics of GitHub, Copiolt and master in the end
-- 🌈 Contribution guidelines - Refer to your tickets in the Project https://github.com/orgs/Copiolt-Club/projects/1 and take actions accordingly
+- 🌈 Contribution guidelines - Refer to your tickets in the [Projects](https://github.com/orgs/Copiolt-Club/projects/1) and take actions accordingly
 - 👩‍💻 Useful resources - All documentation will be inside the tickets on how to do or how to start, later we will improve the document in the 'Wiki'
 - 🍿 Fun facts - All team members are eqally intersted in food, travel and laughter!!
 - 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) but this can be the future improvement.
